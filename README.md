@@ -33,26 +33,6 @@ I'm a BS Information Technology student from the Philippines who enjoys building
 
 ---
 
-## 💼 Experience & Leadership
-
-- 💻 **Frontend Developer** — SalsaTech Labs
-- 🌐 **Campus Ambassador** — DEVCON Philippines
-- 📰 **Production Head** — The Timberland Student Publication
-- 🏛️ **Officer** — CSU CEIT Local Student Government
-- 💙 **Officer** — CSU League of Information Technology
-
----
-
-## 🎓 Education
-
-**Caraga State University – Cabadbaran Campus**
-
-Bachelor of Science in Information Technology (BSIT)
-
-Academic Year **2024–2025 – Present**
-
----
-
 ## 🛠 Tech Stack
 
 ### Languages
@@ -87,11 +67,53 @@ Academic Year **2024–2025 – Present**
 
 ---
 
-## 📊 GitHub Stats
+## 🎓 Education
+
+**Caraga State University – Cabadbaran Campus**
+
+Bachelor of Science in Information Technology (BSIT)
+
+Academic Year **2024–2025 – Present**
+
+---
+
+## 💼 Experience & Leadership
+
+- 💻 **Frontend Developer** — SalsaTech Labs
+- 🌐 **Campus Ambassador** — DEVCON Philippines
+- 📰 **Production Head** — The Timberland Student Publication
+- 🎥 **Media Officer** — CSU CEIT Local Student Government
+- 🎥 **Media Officer** — CSU League of Information Technology
+
+---
+
+## 📊 GitHub Activity
+
+### 🔥 Contribution Streak
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Frostyrr&show_icons=true&theme=github_dark&hide_border=true" /> 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frostyrr&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Frostyrr&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Frostyrr&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+---
+
+### 📋 Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Frostyrr&theme=github_dark" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Frostyrr&theme=github_dark" height="180" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Frostyrr&theme=github_dark" height="180" alt="Most Commit Language" />
 </p>
 
 ---
