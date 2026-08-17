@@ -24,15 +24,6 @@ I'm a BS Information Technology student from the Philippines who enjoys building
 
 ---
 
-## 👨‍💻 About Me
-
-- 💻 Full-Stack Web Developer
-- ⚛️ Building with React, TypeScript, Node.js & Express
-- 🎨 Passionate about UI/UX Design
-- 📚 Always learning new technologies and best engineering practices
-
----
-
 ## 🛠 Tech Stack
 
 ### Languages
@@ -68,26 +59,6 @@ I'm a BS Information Technology student from the Philippines who enjoys building
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 🎓 Education
-
-**Caraga State University – Cabadbaran Campus**
-
-Bachelor of Science in Information Technology (BSIT)
-
-Academic Year **2024–2025 – Present**
-
----
-
-## 💼 Experience & Leadership
-
-- 💻 **Frontend Developer** — SalsaTech Labs
-- 🌐 **Campus Ambassador** — DEVCON Philippines
-- 📰 **Production Head** — The Timberland Student Publication
-- 🎥 **Media Officer** — CSU CEIT Local Student Government
-- 🎥 **Media Officer** — CSU League of Information Technology
 
 ---
 
