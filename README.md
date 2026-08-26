@@ -1,4 +1,4 @@
-### Full-Stack Developer | BSIT Student | UI/UX Enthusiast
+### Web Developer | BSIT Student | UI/UX Enthusiast
 
 I'm a BS Information Technology student from the Philippines who enjoys building modern web applications with a focus on clean UI, secure backends, and great user experiences.
 
