@@ -46,6 +46,7 @@ I'm a BS Information Technology student from the Philippines who enjoys building
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -61,22 +62,6 @@ I'm a BS Information Technology student from the Philippines who enjoys building
 
 ## 📊 GitHub Activity
 
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Frostyrr&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Frostyrr&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
----
-
 ### 📋 Profile Summary
 
 <p align="center">
@@ -86,23 +71,6 @@ I'm a BS Information Technology student from the Philippines who enjoys building
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Frostyrr&theme=github_dark" height="180" alt="Repos per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Frostyrr&theme=github_dark" height="180" alt="Most Commit Language" />
-</p>
-
----
-
-## 📫 Stay connected!
-<p>
-    <a href="https://marcrebato.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/marc-elson-rebato-8999a4235/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="mailto:marcelson.rebato@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 ---
